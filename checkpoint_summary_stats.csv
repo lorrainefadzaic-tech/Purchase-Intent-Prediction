@@ -1,0 +1,13 @@
+Metric,Value
+Training Samples,"177,086"
+Test Samples,"44,272"
+Raw Features,23
+Engineered Features,117
+Final Features,84
+Best Model,HistGradientBoosting
+Best AUC,0.9977
+CV Mean AUC,0.9980
+CV Std AUC,0.0002
+Training Time (approx),< 5 minutes
+Positive Class %,42.7%
+Missing Values Handled,"202,572"
